@@ -7,7 +7,7 @@ export const App = () => {
   // Handlers --------
   // View ---------
 
-  //Test git push
+  //Test git push ok
 
   return (
     <View style={styles.container}>
