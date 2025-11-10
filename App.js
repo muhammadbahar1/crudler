@@ -9,6 +9,8 @@ export const App = () => {
 
 
 	// change log updates
+	
+	loopCheck = () => { console.log("inLoop")};
 
   return (
     <View style={styles.container}>
