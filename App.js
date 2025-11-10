@@ -8,7 +8,7 @@ export const App = () => {
   // View ---------
 
 
-	// React test v3
+	// change log updates
 
   return (
     <View style={styles.container}>
